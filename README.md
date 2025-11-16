@@ -3,6 +3,8 @@ RealGo is the world's first immersive AR + AI + Web3 game built on location-base
 
 Designed to bridge Web2 familiarity with Web3 innovation, RealGo turns your everyday surroundings into a gamified, social adventure full of memes, rewards, and real-world interaction.
 
-This repository is currently private. RealGo is not open source.
+Built on BNB Smart Chain (BSC) and compatible with other EVM networks.
+
+This repository is currently private. RealGo is not open sourced.
 
 For inquiries, please contact: gm@realgo.game
