@@ -2,24 +2,36 @@
 
 > The world's first immersive **AR + AI + Web3** game built on location-based gameplay, where global meme IPs are transformed into living, interactive experiences.
 
----
 
 ## 🚀 Overview
 **RealGo** bridges **Web2 familiarity** with **Web3 innovation**, turning your everyday surroundings into a gamified, social adventure full of memes, rewards, and real-world interaction.
 
-- 🌐 Location-based gameplay  
-- 🤖 AI-driven immersive experiences  
-- 🪙 Web3 integration with global meme IPs  
-- 🎁 Rewards & real-world interaction  
-
----
-
 ## 🛠️ Tech Stack
+### 🔗 Blockchain & Web3
 - **Blockchain**: Built on **BNB Smart Chain (BSC)**  
 - **Compatibility**: Supports other **EVM networks**  
-- **Core Features**: AR, AI, Web3, Meme IP gamification  
+- **Smart Contracts**: Solidity  
+- **Libraries**: ethers.js, web3.js  
 
----
+### 🎮 Game Development
+- **Engine**: Unity  
+- **Languages**: C#, .NET  
+- **Features**: AR, AI, Meme IP gamification  
+
+### 🌐 Frontend
+- **Frameworks**: Vue.js, Angular  
+- **Core Features**: Immersive UI, interactive gameplay  
+
+### ⚙️ Backend & Services
+- **Languages**: Node.js, Python, Rust  
+- **Architecture**: API services, real-time data handling  
+- **Cloud Services**: Scalable deployment & storage  
+
+### 📊 Core Features
+- 🌐 Location-based gameplay  
+- 🤖 AI-driven immersive experiences  
+- ⛓️ Web3 integration with global meme IPs  
+- 🎁 Rewards & real-world interaction  
 
 ## 📸 Highlights
 - Transform memes into **living, interactive experiences**  
@@ -27,13 +39,11 @@
 - Social gameplay with **friends & community**  
 - Seamless bridge between **Web2 familiarity** and **Web3 innovation**  
 
----
 
 ## 📊 Status
 This repository is currently **private**.  
 RealGo is **not open sourced** at the moment.  
 
----
 
 ## 📷 Screenshots & Demo
 > *Visual previews of gameplay and features (to be added when public assets are available)*
@@ -51,7 +61,6 @@ RealGo is **not open sourced** at the moment.
   ![Alt text](image-3.webp)
 
 > *All screenshots are previews from RealGo’s beta version. Final visuals may differ.* 
----
 
 ## 🗺️ Roadmap
 - ✅ Core AR gameplay with meme IPs  
@@ -61,7 +70,6 @@ RealGo is **not open sourced** at the moment.
 - 🔜 Expanded meme IP partnerships  
 - 🔜 Community-driven quests & events  
 
----
 
 ## 🌐 Community
 Join the RealGo community to stay updated:  
@@ -73,13 +81,11 @@ Join the RealGo community to stay updated:
 - Tiktok: [RealGo Official](https://www.tiktok.com/@RealGoOfficial)   
 - Youtube: [RealGo Official](https://youtube.com/@RealGoOfficial)  
 
----
 
 ## 📬 Contact
 For inquiries, collaborations, or partnerships:  
 📧 **gm@realgo.game**
 
----
 
 ## 🏷️ Badges
 ![Made with AR](https://img.shields.io/badge/Made%20with-AR-blueviolet?style=for-the-badge&logo=unity)
@@ -87,7 +93,6 @@ For inquiries, collaborations, or partnerships:
 ![Web3 Ready](https://img.shields.io/badge/Web3-Ready-orange?style=for-the-badge&logo=ethereum)
 ![Built on BSC](https://img.shields.io/badge/Built%20on-BNB%20Smart%20Chain-yellow?style=for-the-badge&logo=binance)
 
----
 
 ## 🌟 Vision
 RealGo is designed to **redefine gaming** by merging the digital and physical worlds, creating a **social adventure** where memes, rewards, and real-world interaction converge.
