@@ -45,7 +45,6 @@ RealGo is **not open sourced** at the moment.
 
 
 ## 📷 Screenshots & Demo
-> *Visual previews of gameplay and features (to be added when public assets are available)*
 
   🎮 Gameplay Interface  
   ![Alt text](Gameplay-Interface.png)
