@@ -48,16 +48,16 @@ RealGo is **not open sourced** at the moment.
 > *Visual previews of gameplay and features (to be added when public assets are available)*
 
   🎮 Gameplay Interface  
-  ![Alt text](image.png)
+  ![Alt text](Gameplay-Interface.png)
 
-  🤝 Meme IP Interactive Demo  
-  ![Alt text](image-1.png)
+  🤝 Meme IP Interactive  
+  ![Alt text](Meme-IP-Interactive.png)
   
-  Web3 Rewards Interface  
-  ![Alt text](image-2.png)
+  💠 Web3 Rewards Interface  
+  ![Alt text](Web3-Rewards-Interface.png)
   
   🗺️ AR Map Adventure  
-  ![Alt text](image-3.webp)
+  ![Alt text](AR-Map-Adventure.png)
 
 > *All screenshots are previews from RealGo’s beta version. Final visuals may differ.* 
 
