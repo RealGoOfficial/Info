@@ -18,7 +18,7 @@
 - **Features**: AR, AI, Meme IP gamification  
 
 ### 🌐 Frontend
-- **Frameworks**: Vue.js, Angular  
+- **Frameworks**: React.js, Vue.js, Angular  
 - **Core Features**: Immersive UI, interactive gameplay  
 
 ### ⚙️ Backend & Services
